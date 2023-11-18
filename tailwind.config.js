@@ -8,6 +8,7 @@ module.exports = {
         '30': '30px',
         '4': "4px",
         '9999': "9999px",
+        "border-1000": "1000px"
       },
       gap: {
         "1.25": "5px"
@@ -37,7 +38,7 @@ module.exports = {
         "error": "#8B141A",
         "Body": "#40596A",
         "secondary": "rgba(255, 255, 255, 0.60)",
-
+        "neutral-1000-60": "rgba(0, 0, 0, 0.60);"
       },
       
       spacing: {},
